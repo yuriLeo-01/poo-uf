@@ -1,5 +1,5 @@
 public class Livro extends Produto{
-    private String titulo;
-    private String autor;
-    private int ano;
+    protected String titulo;
+    protected String autor;
+    protected int ano;
 }

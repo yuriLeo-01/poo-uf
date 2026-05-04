@@ -2,9 +2,9 @@
 public class CarrinhoDeCompras {
     private Produto[] listaDeProdutos = new Produto[4];
     private double valorTotal;
+    private int contador = 0;
 
     public void adicionarProduto(Produto p){
-        int contador = 0;
         if (contador < listaDeProdutos.length){
             this.listaDeProdutos[contador] = p;
             this.valorTotal += p.getValor();
