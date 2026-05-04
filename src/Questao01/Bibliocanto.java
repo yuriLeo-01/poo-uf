@@ -1,4 +1,6 @@
-public class Bibliocanto extends Produto{
+package Questao01;
+
+public class Bibliocanto extends Produto {
     private String cor;
     private double tamanho;
 

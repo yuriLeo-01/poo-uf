@@ -1,4 +1,6 @@
-public class LivroFisico extends Livro{
+package Questao01;
+
+public class LivroFisico extends Livro {
 
     public LivroFisico(String titulo, String autor, int ano, double valor) {
         super(titulo, autor, ano, valor);

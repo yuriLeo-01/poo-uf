@@ -1,3 +1,5 @@
+package Questao01;
+
 public class Produto {
     protected double valor;
 
