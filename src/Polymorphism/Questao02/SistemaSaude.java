@@ -1,4 +1,4 @@
-package Questao02;
+package Polymorphism.Questao02;
 
 public class SistemaSaude {
     Consultorio consultorio;

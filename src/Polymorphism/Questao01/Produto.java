@@ -1,4 +1,4 @@
-package Questao01;
+package Polymorphism.Questao01;
 
 public class Produto {
     protected double valor;

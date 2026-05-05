@@ -1,4 +1,4 @@
-package Questao01;
+package Polymorphism.Questao01;
 
 public class Main {
     public static void main(String[] args) {
